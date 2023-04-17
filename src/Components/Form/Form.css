@@ -1,0 +1,29 @@
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+}
+
+.formulario form {
+    max-width: 80%;
+    background: linear-gradient(to bottom, #282626, #333333, #9D2337);
+    border-radius: 20px;
+    padding: 36px 64px;
+    box-shadow: 8px 8px 16px rgba(0,0,0, 0.08);
+}
+
+.formulario form h2 {
+    color: #FFF;
+}
+
+.info-section {
+    width: 100%;
+  margin: 1rem 0;
+}
+
+.display-card {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
